@@ -304,13 +304,16 @@ section{
 }
 
 .img-rodape{
+    display: block;
     height: 50px;
-    margin: 0 0 40px 118px;
+    margin: 0 auto;
     width: 50px;
 }
 
 .img-rodape img{
+    height: 100%;
     margin-top: 30px;
+    width: 100%;
 }
 
 .rodape-info{
@@ -334,11 +337,11 @@ section{
 
     .img-rodape{
         margin-top: 12px;
-        margin-left: 200px;
     }
 
     .img-rodape img{
         height: 100%;
+        width: 100%;
     }
 
     .rodape-info{
