@@ -337,6 +337,10 @@ section{
         margin-left: 200px;
     }
 
+    .img-rodape img{
+        height: 100%;
+    }
+
     .rodape-info{
         display: grid;
         grid-template-columns: repeat(9, 80px);
